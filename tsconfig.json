@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "noEmitOnError": true
+  },
+  "include": [
+    "scr/**/*"
+  ]
+}
